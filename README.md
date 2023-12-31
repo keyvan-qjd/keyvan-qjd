@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<br/> 
-
-<a href="https://github.com/keyvan-qjd">
+<br/>
+<div align="center">
+    <a href="https://github.com/keyvan-qjd">
     <img src="https://github-stats-alpha.vercel.app/api?username=keyvan-qjd&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
+</div>
+
 <br>
 </p>
 
