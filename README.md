@@ -20,12 +20,8 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-<a href="https://github.com/keyvan-qjd">
-    <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
-</a> 
-<a href="https://t.me/soleymnimatin">
-    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
-</a> 
+<a href="https://github.com/keyvan-qjd"></a> 
+
 <a href="https://www.linkedin.com/in/keyvan-qjd">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
