@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <div align="center">
 💻 My expertise is in building interactive and visually appealing websites and web applications. I have a strong understanding of front-end frameworks like React, and I'm proficient in using CSS preprocessors like Sass to enhance styling efficiency.
 </br>
-    
+</br>
+   
 🌐 I believe in writing clean and maintainable code, following best practices and industry standards. I have experience in optimizing websites for performance and accessibility, ensuring a smooth and inclusive user experience.
 </br>
 
