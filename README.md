@@ -66,3 +66,10 @@ Here are some ideas to get you started:
     </p>
    
 </a>
+
+<div align="center">
+<p>Let's Do some code</p>
+<p  align="center">
+<img  src="https://storage.ning.com/topology/rest/1.0/file/get/2506951374?profile=original"  width="400" alt="Barbershop">
+</p>    
+</div>
