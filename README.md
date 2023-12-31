@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <a href="mailto:keyvanoogh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://t.me/reallkeyvan">
+    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+</a> 
 </div>
 
 <br/>
