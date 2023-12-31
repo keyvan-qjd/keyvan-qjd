@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/keyvan-qjd">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,js,jquery,linux,mysql,html,css,py,sass,tailwind,java&perline=8" />
+         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,js,jquery,linux,mysql,html,css,py,sass,tailwind,java,dart,flutter,kotlin&perline=8" />
     </p>
    
 </a>
