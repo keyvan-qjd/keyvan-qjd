@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://t.me/reallkeyvan">
-    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+    <img src="https://img.shields.io/badge/Contact-blue?style=flat-square&logo=telegram">
 </a> 
 </div>
 
