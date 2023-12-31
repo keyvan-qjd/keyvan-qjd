@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 <a href="https://github.com/keyvan-qjd">
     <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Keyvan+Ghojavand;Junior; Front-End Developer" alt="Typing SVG" />
 </a>
+
+<div align="center">
+    <p>
+         💻 My expertise is in building interactive and visually appealing websites and web applications. I have a strong understanding of front-end frameworks like React, and I'm proficient in using CSS preprocessors like Sass to enhance styling efficiency.
+
+🌐 I believe in writing clean and maintainable code, following best practices and industry standards. I have experience in optimizing websites for performance and accessibility, ensuring a smooth and inclusive user experience.
+
+📚 Continuous learning is important to me, and I stay updated with the latest trends and advancements in front-end development. I enjoy collaborating with cross-functional teams, turning design concepts into functional and engaging digital experiences.
+
+🔧 In addition to my technical skills, I have excellent problem-solving abilities and a keen eye for detail. I am a strong communicator and thrive in a collaborative environment.
+
+🌟 Let's connect and collaborate on exciting front-end projects! Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities and challenges."
+
+    </p>
+   
+</div>
+    
 <br/>
 
 <div align="center">
