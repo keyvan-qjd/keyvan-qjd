@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 💻 My expertise is in building interactive and visually appealing websites and web applications. I have a strong understanding of front-end frameworks like React, and I'm proficient in using CSS preprocessors like Sass to enhance styling efficiency.
-
+</br>
 🌐 I believe in writing clean and maintainable code, following best practices and industry standards. I have experience in optimizing websites for performance and accessibility, ensuring a smooth and inclusive user experience.
+</br>
 
 📚 Continuous learning is important to me, and I stay updated with the latest trends and advancements in front-end development. I enjoy collaborating with cross-functional teams, turning design concepts into functional and engaging digital experiences.
+</br>
 
 🔧 In addition to my technical skills, I have excellent problem-solving abilities and a keen eye for detail. I am a strong communicator and thrive in a collaborative environment.
+</br>
 
 🌟 Let's connect and collaborate on exciting front-end projects! Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities and challenges."
    
