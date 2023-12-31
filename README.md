@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-<a href="https://github.com/keyvan-qjd"></a> 
+<div align="center">
+    <a href="https://github.com/keyvan-qjd"></a> 
 
-<a href="https://www.linkedin.com/in/keyvan-qjd">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
 <a href="mailto:keyvanoogh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+</div>
+
 <br/> 
 
 <a href="https://github.com/keyvan-qjd">
