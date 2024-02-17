@@ -61,16 +61,16 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://github.com/keyvan-qjd">
-    <p align="center">
-                  <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,js,linux,mysql,html,css,py,sass,bootstrap,java,dart,flutter,kotlin,react,photoshop&perline=8"/>
-
+    <p align = "center">
+        <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,js,linux,mysql,html,css,py,sass,bootstrap,java,dart,flutter,kotlin,react,photoshop&perline=8">
     </p>
+
    
 </a>
 
 <div align="center">
 <p>Let's code</p>
 <p  align="center">
-<img  src="https://storage.ning.com/topology/rest/1.0/file/get/2506951374?profile=original"  width="400" alt="Barbershop">
+<img  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  width="400" alt="Barbershop">
 </p>    
 </div>
