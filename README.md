@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://github.com/keyvan-qjd">
-    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Keyvan+Ghojavand;Junior; Front-End Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Keyvan+Ghojavand;FrontEnd Developer" alt="Typing SVG" />
 </a>
 
 <div align="center">
