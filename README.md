@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/keyvan-qjd">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,js,linux,mysql,html,css,py,sass,bootstrap,java,dart,flutter,kotlin,react,photoshop&perline=8" />
+         <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
     </p>
    
 </a>
