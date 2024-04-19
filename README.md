@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </a>
 
 
-<--
 <div align="center">
 💻 My expertise is in building interactive and visually appealing websites and web applications. I have a strong understanding of front-end frameworks like React, and I'm proficient in using CSS preprocessors like Sass to enhance styling efficiency.
 </br>
@@ -38,8 +37,6 @@ Here are some ideas to get you started:
 🌟 Let's connect and collaborate on exciting front-end projects! Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities and challenges."
    
 </div>
-
--->
     
 <br/>
 
