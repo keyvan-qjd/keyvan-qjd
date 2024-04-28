@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
- 🌱 I’m currently learning React
+Front End Developer
 
 <div/>
 
